@@ -1,0 +1,12 @@
+{
+  "name": "Minesweeper",
+  "short_name": "Minesweeper",
+  "id": "com.example.minesweeperexample",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
